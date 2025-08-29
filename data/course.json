@@ -33,6 +33,7 @@
   },
   "course_title": "Nuclear Weapons Education Project",
   "hide_download": true,
+  "mit_learn_topics": [],
   "course_description": "The MIT Nuclear Weapons Education Project aims to teach individuals, particularly those who grew up after the end of the Cold War, about what nuclear weapons are and their effects on the world. The project website provides materials for lectures or discussions at introductory course levels.",
   "department_numbers": [
     "8"
@@ -44,8 +45,10 @@
     "website": "nuclear-weapons-education-project"
   },
   "learning_resource_types": [
-    "Instructor Insights"
+    "Instructor Insights",
+    "Podcasts"
   ],
   "site_uid": "925772da-4da3-44d6-97bc-ce64efc59e41",
-  "site_short_id": "RES.8-008"
+  "site_short_id": "RES.8-008",
+  "site_url_path": "courses/res-8-008-nuclear-weapons-education-project-spring-2022"
 }
